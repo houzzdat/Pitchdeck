@@ -1680,7 +1680,7 @@ body {
 }
 
 .funding-ask h3 {
-    font-size: 29px; /* was 36px */
+    font-size: 36px; /* was 36px */
     font-weight: 700;
     margin: 0;
 }
@@ -1693,7 +1693,7 @@ body {
 }
 
 .fund-deployment h4 {
-    font-size: 19px; /* was 24px */
+    font-size: 24px; /* was 24px */
     color: #0F1E50;
     font-weight: 600;
     margin-bottom: 14px; /* was 20px */
