@@ -700,6 +700,9 @@ body {
 
 /* Slide Navigation */
 .slide-navigator {
+    display: none !important;
+}
+.slide-navigator {
     position: fixed;
     top: 20px;
     right: 20px;
